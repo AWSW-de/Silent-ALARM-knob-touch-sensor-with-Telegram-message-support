@@ -39,7 +39,7 @@ const char* wifiHostname = "AWSW-Knob-Alarm";
 
 // #######################################################################################################################################################
 
-// Turn serial output messages on or off to save battery power:
+// Turn serial output messages on or off to save more battery power:
 #define debugmode 1
 
 // #######################################################################################################################################################
